@@ -5,7 +5,7 @@ A responsive single-page task management application built with HTML, CSS, and V
 
 ## Live Demo
 
-[View Live Project](LIVE_DEMO_URL)
+[View Live Project](https://delaramfarzad9.github.io/JavaScript-Task-Management-Application/)
 
 ## Preview
 
